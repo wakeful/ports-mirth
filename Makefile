@@ -1,5 +1,5 @@
 # Created by: Adrian Jaskuła <aj@laatu.uk>
-# $FreeBSD:$
+# $FreeBSD$
 
 PORTNAME=	mirthconnect
 PORTVERSION=	3.3.2.7911.b104
