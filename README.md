@@ -1,6 +1,6 @@
 # Mirth Connect FreeBSD Port
 
-[Mirth Connect](https://www.mirth.com/Products-and-Services/Mirth-Connect) - cross-platform HL7 interface engine.
+[Mirth Connect](https://www.mirth.com) - cross-platform HL7 interface engine.
 
 ## Usage
 ```
