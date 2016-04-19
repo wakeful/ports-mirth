@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	mirthconnect
-PORTVERSION=	3.3.2.7911.b104
+PORTVERSION=	3.4.0.8000.b1959
 CATEGORIES=	java net
 MASTER_SITES=	http://downloads.mirthcorp.com/connect/${PORTVERSION}/
 DISTNAME=	${PORTNAME}-${PORTVERSION}-unix
