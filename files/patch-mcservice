@@ -1,0 +1,20 @@
+--- mcservice.orig	2016-10-23 15:17:27 UTC
++++ mcservice
+@@ -11,7 +11,7 @@
+ ### END INIT INFO
+ 
+ # Uncomment the following line to override the JVM search sequence
+-# INSTALL4J_JAVA_HOME_OVERRIDE=
++INSTALL4J_JAVA_HOME_OVERRIDE="/usr/local"
+ # Uncomment the following line to add additional VM parameters
+ # INSTALL4J_ADD_VM_PARAMS=
+ 
+@@ -256,7 +256,7 @@ while [ -h "$prg" ] ; do
+   fi
+ done
+ 
+-prg_dir=`dirname "$prg"`
++prg_dir="/usr/local/mirthconnect/"
+ progname=`basename "$prg"`
+ cd "$prg_dir"
+ prg_dir=`pwd`

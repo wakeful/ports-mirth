@@ -24,5 +24,6 @@ WRKSRC=	${WRKDIR}/Mirth\ Connect/
 do-install:
 	${MKDIR} ${STAGEDIR}${PREFIX}/${PORTNAME}
 	cd ${WRKSRC}; ${COPYTREE_SHARE} . ${STAGEDIR}${PREFIX}/${PORTNAME}
+	${INSTALL_SCRIPT} ${WRKSRC}/mcservice ${STAGEDIR}${PREFIX}/bin$
 
 .include <bsd.port.mk>

@@ -1,4 +1,5 @@
 @dir mirthconnect/custom-lib
+bin/mcservice
 mirthconnect/.install4j/MessagesDefault
 mirthconnect/.install4j/firstrun
 mirthconnect/.install4j/i4j_extf_0_1xzdl9v.utf8
@@ -414,6 +415,7 @@ mirthconnect/mcmanager
 mirthconnect/mcserver
 mirthconnect/mcserver.vmoptions
 mirthconnect/mcservice
+mirthconnect/mcservice.orig
 mirthconnect/mcservice.vmoptions
 mirthconnect/mirth-cli-launcher.jar
 mirthconnect/mirth-manager-launcher.jar
