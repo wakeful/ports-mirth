@@ -1,4 +1,4 @@
-# Created by: Adrian Jaskuła <aj@laatu.uk>
+# Created by: Adrian Jaskuła <aj@48k.io>
 # $FreeBSD$
 
 PORTNAME=	mirthconnect
@@ -7,7 +7,7 @@ CATEGORIES=	java net
 MASTER_SITES=	http://downloads.mirthcorp.com/connect/${PORTVERSION}/
 DISTNAME=	${PORTNAME}-${PORTVERSION}-unix
 
-MAINTAINER=	aj@laatu.uk
+MAINTAINER=	aj@48k.io
 COMMENT=	Mirth Connect cross-platform HL7 interface engine
 
 LICENSE=	MPL
