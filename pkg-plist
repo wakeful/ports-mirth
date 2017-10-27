@@ -18,6 +18,7 @@ mirthconnect/cli-lib/bcprov-jdk15on-151.jar
 mirthconnect/cli-lib/commons-cli-1.2.jar
 mirthconnect/cli-lib/commons-codec-1.6.jar
 mirthconnect/cli-lib/commons-collections-3.2.1.jar
+mirthconnect/cli-lib/commons-collections4-4.0.jar
 mirthconnect/cli-lib/commons-configuration-1.7.jar
 mirthconnect/cli-lib/commons-io-2.3.jar
 mirthconnect/cli-lib/commons-lang-2.6.jar
@@ -385,6 +386,7 @@ mirthconnect/extensions/xsltstep/xsltstep-client.jar
 mirthconnect/extensions/xsltstep/xsltstep-shared.jar
 mirthconnect/manager-lib/commons-codec-1.6.jar
 mirthconnect/manager-lib/commons-collections-3.2.1.jar
+mirthconnect/manager-lib/commons-collections4-4.0.jar
 mirthconnect/manager-lib/commons-configuration-1.7.jar
 mirthconnect/manager-lib/commons-io-2.3.jar
 mirthconnect/manager-lib/commons-lang-2.6.jar
@@ -527,6 +529,7 @@ mirthconnect/server-lib/donkey/donkey-server.jar
 mirthconnect/server-lib/donkey/guava-18.0.jar
 mirthconnect/server-lib/donkey/quartz-all-2.1.7.jar
 mirthconnect/server-lib/donkey/slf4j-api-1.6.6.jar
+mirthconnect/server-lib/guice-4.1.0.jar
 mirthconnect/server-lib/hapi-1.1.jar
 mirthconnect/server-lib/jackson-annotations-2.5.3.jar
 mirthconnect/server-lib/jackson-core-2.5.3.jar
